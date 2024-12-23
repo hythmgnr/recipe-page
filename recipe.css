@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+*{
+
+    padding: 0;
+    margin: 0 ;
+}
+::selection {
+    background-color:hsl(15, 46%, 27%) ;
+    color: white ; 
+  }
+  
+body{
+    background-color: hsl(30, 54%, 90%) ;
+}
+
+.container{
+    width: 750px ;
+    background-color: white ;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+#img{
+    width: 650px ;
+    border-radius: 5px ;
+    position: relative; 
+    left: 60px   ;
+    margin-top: 30px;
+    max-width: 100%;
+   
+
+}
+h1{
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: lighter ;
+    margin-top: 25px ;
+    margin-left: 60px ;
+    font-size: 40px  ;
+
+}
+
+p{
+    color: hsl(30, 10%, 34%);
+    width: 650px ;
+    margin-left: 60px ;
+    margin-top: 25px ;
+    font-family: "outfit";
+    margin-bottom: 25px ;
+
+
+}
+
+
+.preparation-time{
+    width: 650px ;
+    margin: auto ;
+    background-color: hsl(30, 54%, 90%) ;
+}
+
+h3{
+    color: hsl(332, 51%, 32%);
+    font-family: "outfit";
+    margin-left: 28px ;
+}
+.time{
+    margin-left: 50px ;
+    font-family: "outfit";
+    color: hsl(30, 10%, 27%) ; 
+
+
+}
+#item{
+    text-indent: 20px ;
+}
+
+h2{
+    color: hsl(15, 46%, 27%);
+font-weight: lighter;
+font-size: 30px  ;
+    font-family: "Young Serif", serif;
+    margin-left: 60px ;
+
+}
+
+.Ingredients{
+    font-family: "outfit";
+    margin-left: 85px ;
+}
+li{
+    text-indent: 20px ;
+    color: hsl(30, 10%, 27%) ; 
+    margin-bottom: 13px ;
+}
+hr{
+    width: 650px ;
+    margin: auto ;
+    border-color: hsla(32, 10%, 34%, 0.205);
+}
+ol{
+    margin-left: 60px ;
+    font-family: "outfit";
+
+
+
+}
+
+.Oitem{
+    color: hsl(30, 10%, 27%) ; 
+     size: 10px ;
+}
+span{
+    margin-left: 20px ;
+}
+ol li::marker{
+color: hsl(15, 46%, 27%);
+   font-weight: bold ;
+}
+#table1{
+    word-spacing: 280px;
+    margin-left: 90px ;
+}
+#Calorie{
+    color: hsl(15, 46%, 27%);
+    font-weight: bold ;
+    
+    
+}
+#table2{word-spacing: 297px;margin-left: 90px ;}
+#table3{word-spacing: 290px;margin-left: 90px ;}
+#table4{word-spacing: 322px;margin-left: 90px ;}
+#CalorieP{
+    margin-top: 20px ;
+    margin-bottom: 30px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
